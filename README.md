@@ -21,47 +21,5 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ## 🗓️ Daily Progress
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🔷 LeetCode</h3>
-      <table>
-        <thead>
-          <tr>
-            <th>Date</th>
-            <th>Problem</th>
-            <th>Link</th>
-          </tr>
-        </thead>
-        <tbody>
-          <!-- Add entries like below -->
-          <tr>
-            <td>2025-05-31</td>
-            <td>Two Sum</td>
-            <td><a href="https://leetcode.com/submissions/detail/your-link">Solution</a></td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🔶 StrataScratch</h3>
-      <table>
-        <thead>
-          <tr>
-            <th>Date</th>
-            <th>Problem</th>
-            <th>Link</th>
-          </tr>
-        </thead>
-        <tbody>
-          <!-- Add entries like below -->
-          <tr>
-            <td>2025-05-31</td>
-            <td>Top 10 Customers</td>
-            <td><a href="https://platform.stratascratch.com/coding/your-link">Solution</a></td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-  </tr>
-</table>
+<!-- START PROGRESS TABLE -->
+<!-- END PROGRESS TABLE -->
