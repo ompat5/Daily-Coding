@@ -133,75 +133,75 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
           <!-- Add entries like below -->
           <tr>
             <td>2025-05-31</td>
-            <td>Top 10 Customers</td>
+            <td>Customer Details</td>
+            <td>Easy</td>
+            <td><a href="https://platform.stratascratch.com/coding/code-preview?load_attempt=71103720&code_type=1&is_correct_solution=1">SQL</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-30</td>
+            <td>Activity Rank</td>
             <td>Medium</td>
             <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Top 10 Customers</td>
+            <td>2025-05-29</td>
+            <td>Number Of Units Per Nationality</td>
             <td>Medium</td>
             <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Top 10 Customers</td>
+            <td>2025-05-28</td>
+            <td>Risky Projects</td>
             <td>Medium</td>
             <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Top 10 Customers</td>
+            <td>2025-05-27</td>
+            <td>Premium vs Freemium</td>
             <td>Medium</td>
             <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Top 10 Customers</td>
+            <td>2025-05-26</td>
+            <td>Highest Cost Orders</td>
             <td>Medium</td>
             <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Top 10 Customers</td>
+            <td>2025-05-25</td>
+            <td>Finding Updated Records</td>
+            <td>Easy</td>
+            <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-24</td>
+            <td>Workers With The Highest Salaries</td>
+            <td>Easy</td>
+            <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-23</td>
+            <td>Acceptance Rate By Date</td>
             <td>Medium</td>
             <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Top 10 Customers</td>
+            <td>2025-05-22</td>
+            <td>Finding User Purchases</td>
             <td>Medium</td>
             <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Top 10 Customers</td>
-            <td>Medium</td>
-            <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
-          </tr>
-          <tr>
-            <td>2025-05-31</td>
-            <td>Top 10 Customers</td>
-            <td>Medium</td>
-            <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
-          </tr>
-          <tr>
-            <td>2025-05-31</td>
-            <td>Top 10 Customers</td>
+            <td>2025-05-21</td>
+            <td>Users By Average Session Time</td>
             <td>Medium</td>
             <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
           </tr>
           <tr>
             <td>2025-05-20</td>
-            <td>Users By Average Session Time</td>
-            <td>Medium</td>
-            <td><a href="https://platform.stratascratch.com/coding/code-preview?load_attempt=71143638&code_type=1&is_correct_solution=1">SQL</a></td>
-          </tr>
-          <tr>
-            <td>2025-05-19</td>
             <td>Salaries Differences</td>
             <td>Easy</td>
-            <td><a href="https://platform.stratascratch.com/coding/code-preview?load_attempt=71103720&code_type=1&is_correct_solution=1">SQL</a></td>
+            <td><a href="https://platform.stratascratch.com/coding/code-preview?load_attempt=71143638&code_type=1&is_correct_solution=1">SQL</a></td>
           </tr>
         </tbody>
       </table>
