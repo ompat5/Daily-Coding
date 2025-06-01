@@ -31,13 +31,14 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🧠 LeetCode</h3>
+      <h3>🔷 LeetCode</h3>
       <table>
         <thead>
           <tr>
             <th>Date</th>
             <th>Problem</th>
-            <th>Link</th>
+            <th>Difficulty</th>
+            <th>Solution</th>
           </tr>
         </thead>
         <tbody>
@@ -45,18 +46,86 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
           <tr>
             <td>2025-05-31</td>
             <td>Two Sum</td>
-            <td><a href="https://leetcode.com/submissions/detail/your-link">Solution</a></td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Two Sum</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Two Sum</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Two Sum</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Two Sum</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Two Sum</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Two Sum</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Two Sum</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Two Sum</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Two Sum</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Two Sum</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Two Sum</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
           </tr>
         </tbody>
       </table>
     </td>
     <td valign="top" width="50%">
-      <h3>🧾 StrataScratch</h3>
+      <h3>🔶 StrataScratch</h3>
       <table>
         <thead>
           <tr>
             <th>Date</th>
             <th>Problem</th>
+            <th>Difficulty</th>
             <th>Link</th>
           </tr>
         </thead>
@@ -65,7 +134,74 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
           <tr>
             <td>2025-05-31</td>
             <td>Top 10 Customers</td>
-            <td><a href="https://platform.stratascratch.com/coding/your-link">Solution</a></td>
+            <td>Medium</td>
+            <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Top 10 Customers</td>
+            <td>Medium</td>
+            <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Top 10 Customers</td>
+            <td>Medium</td>
+            <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Top 10 Customers</td>
+            <td>Medium</td>
+            <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Top 10 Customers</td>
+            <td>Medium</td>
+            <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Top 10 Customers</td>
+            <td>Medium</td>
+            <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Top 10 Customers</td>
+            <td>Medium</td>
+            <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Top 10 Customers</td>
+            <td>Medium</td>
+            <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Top 10 Customers</td>
+            <td>Medium</td>
+            <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-31</td>
+            <td>Top 10 Customers</td>
+            <td>Medium</td>
+            <td><a href="https://platform.stratascratch.com/coding/your-link">SQL</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-20</td>
+            <td>Users By Average Session Time</td>
+            <td>Medium</td>
+            <td><a href="https://platform.stratascratch.com/coding/code-preview?load_attempt=71143638&code_type=1&is_correct_solution=1">SQL</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-19</td>
+            <td>Salaries Differences</td>
+            <td>Easy</td>
+            <td><a href="https://platform.stratascratch.com/coding/code-preview?load_attempt=71103720&code_type=1&is_correct_solution=1">SQL</a></td>
           </tr>
         </tbody>
       </table>
