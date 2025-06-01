@@ -10,13 +10,18 @@ This README updates daily with links to the problems I’ve solved. Click on a l
 
 This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python, and crying. Let’s get better one problem at a time 💪.
 
-Streak 🔥: 12 days
+---
+
+### Streak 🔥: 12 days
+
+![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
+
 ---
 
 ## 👤 Profiles
 
-- 🧠 [My LeetCode](https://leetcode.com/u/ompatel5/)
-- 🧾 [My StrataScratch](https://platform.stratascratch.com/user/ompat)
+- [My LeetCode](https://leetcode.com/u/ompatel5/)
+- [My StrataScratch](https://platform.stratascratch.com/user/ompat)
 
 ---
 
@@ -26,7 +31,7 @@ Streak 🔥: 12 days
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>LeetCode</h3>
+      <h3>🧠 LeetCode</h3>
       <table>
         <thead>
           <tr>
@@ -46,7 +51,7 @@ Streak 🔥: 12 days
       </table>
     </td>
     <td valign="top" width="50%">
-      <h3>StrataScratch</h3>
+      <h3>🧾 StrataScratch</h3>
       <table>
         <thead>
           <tr>
