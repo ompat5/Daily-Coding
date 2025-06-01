@@ -1,12 +1,10 @@
 # 🚀 Daily Coding Challenge
 
-Welcome to the land of loops, joins, and the occasional existential crisis. This repo is where I sharpen my data science weapons every day by slaying one (or more) LeetCode and StrataScratch problem(s).
-
-> 📈 Getting better at data science isn't a sprint—it's a daily SQL jog followed by a Python sprint.
+Welcome, this repo is where I sharpen my data science weapons every day by slaying one (or more) LeetCode and StrataScratch problem(s).
 
 I'm doing this to level up my problem-solving, keep my brain caffeinated ☕, and prepare for the day someone throws a left-outer join at me in a job interview!
 
-This README updates daily with links to the problems I’ve solved. Click on a link to view my solution (you'll need an account on the site).
+This README updates daily with links to the problems I’ve solved. Click on the link to view my solution (you'll need a leetcode account).
 
 This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python, and crying. Let’s get better one problem at a time 💪.
 
@@ -31,7 +29,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🔷 LeetCode</h3>
+      <h3>🔶 LeetCode</h3>
       <table>
         <thead>
           <tr>
@@ -45,81 +43,141 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
           <!-- Add entries like below -->
           <tr>
             <td>2025-05-31</td>
-            <td>Two Sum</td>
-            <td>Easy</td>
-            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+            <td>76. Minimum Window Substring</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/minimum-window-substring/submissions/1649835663/">Python</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Two Sum</td>
-            <td>Easy</td>
-            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+            <td>2025-05-30</td>
+            <td>567. Permutation in String</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/permutation-in-string/submissions/1649357901/">Python</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Two Sum</td>
-            <td>Easy</td>
-            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+            <td>2025-05-30</td>
+            <td>3. Longest Substring Without Repeating Characters</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1649096223/">Python</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Two Sum</td>
+            <td>2025-05-29</td>
+            <td>121. Best Time to Buy and Sell Stock</td>
             <td>Easy</td>
-            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+            <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1648305923/">Python</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Two Sum</td>
-            <td>Easy</td>
-            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+            <td>2025-05-28</td>
+            <td>394. Decode String</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/decode-string/submissions/1647551261/">Python</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Two Sum</td>
-            <td>Easy</td>
-            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+            <td>2025-05-28</td>
+            <td>981. Time Based Key-Value Store</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/time-based-key-value-store/submissions/1647535713/">Python</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Two Sum</td>
-            <td>Easy</td>
-            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+            <td>2025-05-28</td>
+            <td>33. Search in Rotated Sorted Array</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1647495633/">Python</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Two Sum</td>
-            <td>Easy</td>
-            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+            <td>2025-05-28</td>
+            <td>153. Find Minimum in Rotated Sorted Array</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/1647488724/">Python</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Two Sum</td>
-            <td>Easy</td>
-            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+            <td>2025-05-28</td>
+            <td>875. Koko Eating Bananas</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/koko-eating-bananas/submissions/1647110222/">Python</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Two Sum</td>
-            <td>Easy</td>
-            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+            <td>2025-05-27</td>
+            <td>74. Search a 2D Matrix</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/search-a-2d-matrix/submissions/1646566035/">Python</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Two Sum</td>
+            <td>2025-05-27</td>
+            <td>704. Binary Search</td>
             <td>Easy</td>
-            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+            <td><a href="https://leetcode.com/problems/binary-search/submissions/1646558050/">Python</a></td>
           </tr>
           <tr>
-            <td>2025-05-31</td>
-            <td>Two Sum</td>
+            <td>2025-05-27</td>
+            <td>84. Largest Rectangle in Histogram</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1646072610/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-27</td>
+            <td>853. Car Fleet</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/car-fleet/submissions/1646052749/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-26</td>
+            <td>739. Daily Temperatures</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/daily-temperatures/submissions/1645116572/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-26</td>
+            <td>22. Generate Parentheses</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/generate-parentheses/submissions/1645103303/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-26</td>
+            <td>155. Min Stack</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/min-stack/submissions/1645091929/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-25</td>
+            <td>2131. Longest Palindrome by Concatenating Two Letter Words</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/submissions/1644127606/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-24</td>
+            <td>2942. Find Words Containing Character</td>
             <td>Easy</td>
-            <td><a href="https://leetcode.com/submissions/detail/your-link">Python</a></td>
+            <td><a href="https://leetcode.com/problems/find-words-containing-character/submissions/1643010174/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-23</td>
+            <td>3068. Find the Maximum Sum of Node Values</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/find-the-maximum-sum-of-node-values/submissions/1642336626/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-22</td>
+            <td>3362. Zero Array Transformation III</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/zero-array-transformation-iii/submissions/1641638954/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-21</td>
+            <td>73. Set Matrix Zeroes</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/set-matrix-zeroes/submissions/1640435333/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-05-20</td>
+            <td>3355. Zero Array Transformation I</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/zero-array-transformation-i/submissions/1639629789/">Python</a></td>
           </tr>
         </tbody>
       </table>
     </td>
     <td valign="top" width="50%">
-      <h3>🔶 StrataScratch</h3>
+      <h3>🔷 StrataScratch</h3>
       <table>
         <thead>
           <tr>
