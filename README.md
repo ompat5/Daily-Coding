@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 13 days
+### Streak 🔥: 14 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,18 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-02</td>
+            <td>21. Merge Two Sorted Lists</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/submissions/1652230626/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-01</td>
+            <td>206. Reverse Linked List</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/reverse-linked-list/submissions/1650843182/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-05-31</td>
             <td>76. Minimum Window Substring</td>
@@ -189,6 +201,18 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-02</td>
+            <td>Average Salaries</td>
+            <td>Easy</td>
+            <td><a href="https://platform.stratascratch.com/coding/code-preview?load_attempt=71103720&code_type=1&is_correct_solution=1">SQL</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-01</td>
+            <td>Bikes Last Used</td>
+            <td>Easy</td>
+            <td><a href="https://platform.stratascratch.com/coding/code-preview?load_attempt=71103720&code_type=1&is_correct_solution=1">SQL</a></td>
+          </tr>
           <tr>
             <td>2025-05-31</td>
             <td>Customer Details</td>
