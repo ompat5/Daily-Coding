@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 17 days
+### Streak 🔥: 18 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,12 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-06</td>
+            <td>235. Lowest Common Ancestor of a Binary Search Tree</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/1655828165/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-06-05</td>
             <td>572. Subtree of Another Tree</td>
@@ -260,6 +266,10 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-06</td>
+            <td>Popularity of Hack</td>
+            <td>Easy</td>
           <tr>
             <td>2025-06-05</td>
             <td>Order Details</td>
