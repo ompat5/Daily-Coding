@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 16 days
+### Streak 🔥: 17 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,48 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-05</td>
+            <td>572. Subtree of Another Tree</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/subtree-of-another-tree/submissions/1655230049/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-05</td>
+            <td>100. Same Tree</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/same-tree/submissions/1655225112/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-05</td>
+            <td>110. Balanced Binary Tree</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/balanced-binary-tree/submissions/1655209942/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-05</td>
+            <td>104. Maximum Depth of Binary Tree</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1655205574/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-05</td>
+            <td>226. Invert Binary Tree</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/invert-binary-tree/submissions/1655170842/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-05</td>
+            <td>2. Add Two Numbers</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/add-two-numbers/submissions/1655156288/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-05</td>
+            <td>138. Copy List with Random Pointer</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/copy-list-with-random-pointer/submissions/1654918975/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-06-04</td>
             <td>19. Remove Nth Node From End of List</td>
@@ -218,7 +260,12 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
-           <tr>
+          <tr>
+            <td>2025-06-05</td>
+            <td>Order Details</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
             <td>2025-06-04</td>
             <td>Number Of Bathrooms And Bedrooms</td>
             <td>Easy</td>
