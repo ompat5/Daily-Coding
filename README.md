@@ -42,6 +42,12 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         <tbody>
           <!-- Add entries like below -->
           <tr>
+            <td>2025-06-07</td>
+            <td>105. Construct Binary Tree from Preorder and Inorder Traversal</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/1656647277/">Python</a></td>
+          </tr>
+          <tr>
             <td>2025-06-06</td>
             <td>230. Kth Smallest Element in a BST</td>
             <td>Medium</td>
@@ -296,6 +302,11 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-07</td>
+            <td>Income By Title and Gender</td>
+            <td>Medium</td>
+          <tr>
           <tr>
             <td>2025-06-06</td>
             <td>Popularity of Hack</td>
