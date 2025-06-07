@@ -43,6 +43,36 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
           <!-- Add entries like below -->
           <tr>
             <td>2025-06-06</td>
+            <td>230. Kth Smallest Element in a BST</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/1656004841/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-06</td>
+            <td>98. Validate Binary Search Tree</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/validate-binary-search-tree/submissions/1655890961/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-06</td>
+            <td>1448. Count Good Nodes in Binary Tree</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/1655883781/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-06</td>
+            <td>199. Binary Tree Right Side View</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/binary-tree-right-side-view/submissions/1655868229/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-06</td>
+            <td>102. Binary Tree Level Order Traversal</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1655862583/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-06</td>
             <td>235. Lowest Common Ancestor of a Binary Search Tree</td>
             <td>Medium</td>
             <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/1655828165/">Python</a></td>
