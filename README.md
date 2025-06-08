@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 19 days
+### Streak 🔥: 20 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,12 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-08</td>
+            <td>208. Implement Trie (Prefix Tree)</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/implement-trie-prefix-tree/submissions/1658048370/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-06-07</td>
             <td>105. Construct Binary Tree from Preorder and Inorder Traversal</td>
@@ -302,6 +308,11 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-08</td>
+            <td>Classify Business Type</td>
+            <td>Medium</td>
+          <tr>
           <tr>
             <td>2025-06-07</td>
             <td>Income By Title and Gender</td>
