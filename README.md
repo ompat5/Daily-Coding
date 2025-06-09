@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 20 days
+### Streak 🔥: 21 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,12 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-09</td>
+            <td>211. Design Add and Search Words Data Structure</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/design-add-and-search-words-data-structure/submissions/1659140057/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-06-08</td>
             <td>208. Implement Trie (Prefix Tree)</td>
@@ -308,6 +314,11 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-09</td>
+            <td>Customer Revenue In March</td>
+            <td>Medium</td>
+          <tr>
           <tr>
             <td>2025-06-08</td>
             <td>Classify Business Type</td>
