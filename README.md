@@ -43,6 +43,18 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
           <!-- Add entries like below -->
           <tr>
             <td>2025-06-10</td>
+            <td>39. Combination Sum</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/combination-sum/submissions/1660302320/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-10</td>
+            <td>78. Subsets</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/subsets/submissions/1660278740/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-10</td>
             <td>212. Word Search II</td>
             <td>Hard</td>
             <td><a href="https://leetcode.com/problems/word-search-ii/submissions/1660228855/">Python</a></td>
