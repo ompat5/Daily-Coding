@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 26 days
+### Streak 🔥: 27 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,12 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-15</td>
+            <td>17. Letter Combinations of a Phone Number</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1665025832/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-06-14</td>
             <td>79. Word Search</td>
@@ -356,6 +362,11 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-15</td>
+            <td>Aroma-based Winery Search.</td>
+            <td>Medium</td>
+          <tr>
           <tr>
             <td>2025-06-14</td>
             <td>Spam Posts</td>
