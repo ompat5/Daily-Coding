@@ -43,6 +43,24 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
           <!-- Add entries like below -->
           <tr>
             <td>2025-06-15</td>
+            <td>1046. Last Stone Weight</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/last-stone-weight/submissions/1665418024/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-15</td>
+            <td>703. Kth Largest Element in a Stream</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/1665414638/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-15</td>
+            <td>51. N-Queens</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/n-queens/submissions/1665072022/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-15</td>
             <td>17. Letter Combinations of a Phone Number</td>
             <td>Medium</td>
             <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1665025832/">Python</a></td>
