@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 27 days
+### Streak 🔥: 28 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,12 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-16</td>
+            <td>973. K Closest Points to Origin</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/k-closest-points-to-origin/submissions/1666587580/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-06-15</td>
             <td>1046. Last Stone Weight</td>
@@ -380,6 +386,11 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-16</td>
+            <td>Highest Salary In Department</td>
+            <td>Medium</td>
+          <tr>
           <tr>
             <td>2025-06-15</td>
             <td>Aroma-based Winery Search.</td>
