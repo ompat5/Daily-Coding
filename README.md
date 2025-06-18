@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 28 days
+### Streak 🔥: 29 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,12 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-17</td>
+            <td>215. Kth Largest Element in an Array</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/1667746724/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-06-16</td>
             <td>973. K Closest Points to Origin</td>
@@ -386,6 +392,11 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-17</td>
+            <td>Employee and Manager Salaries</td>
+            <td>Medium</td>
+          <tr>
           <tr>
             <td>2025-06-16</td>
             <td>Highest Salary In Department</td>
