@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 29 days
+### Streak 🔥: 30 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,12 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-18</td>
+            <td>70. Climbing Stairs</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/climbing-stairs/submissions/1668559122/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-06-17</td>
             <td>215. Kth Largest Element in an Array</td>
@@ -392,6 +398,11 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-18</td>
+            <td>Top Cool Votes</td>
+            <td>Medium</td>
+          <tr>
           <tr>
             <td>2025-06-17</td>
             <td>Employee and Manager Salaries</td>
