@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 30 days
+### Streak 🔥: 32 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,18 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-20</td>
+            <td>198. House Robber</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/house-robber/submissions/1670818807/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-19</td>
+            <td>746. Min Cost Climbing Stairs</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/min-cost-climbing-stairs/submissions/1670809172/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-06-18</td>
             <td>70. Climbing Stairs</td>
@@ -398,6 +410,16 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-20</td>
+            <td>MacBookPro User Event Count</td>
+            <td>Easy</td>
+          <tr>
+          <tr>
+            <td>2025-06-19</td>
+            <td>Share of Active Users</td>
+            <td>Medium</td>
+          <tr>
           <tr>
             <td>2025-06-18</td>
             <td>Top Cool Votes</td>
