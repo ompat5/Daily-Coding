@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 32 days
+### Streak 🔥: 33 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,12 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-21</td>
+            <td>213. House Robber II</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/house-robber-ii/submissions/1671967429/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-06-20</td>
             <td>198. House Robber</td>
@@ -410,6 +416,11 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-21</td>
+            <td>Most Profitable Financial Company</td>
+            <td>Easy</td>
+          <tr>
           <tr>
             <td>2025-06-20</td>
             <td>MacBookPro User Event Count</td>
