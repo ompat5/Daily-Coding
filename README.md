@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 36 days
+### Streak 🔥: 37 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,12 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-25</td>
+            <td>695. Max Area of Island</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/max-area-of-island/submissions/1676347589/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-06-24</td>
             <td>200. Number of Islands</td>
@@ -434,6 +440,11 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-25</td>
+            <td>Email Preference Missing</td>
+            <td>Easy</td>
+          <tr>
           <tr>
             <td>2025-06-24</td>
             <td>Total Cost Of Orders</td>
