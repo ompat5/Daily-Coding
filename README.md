@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 38 days
+### Streak 🔥: 39 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,78 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-27</td>
+            <td>56. Merge Intervals</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/merge-intervals/submissions/1678713988/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-27</td>
+            <td>57. Insert Interval</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/insert-interval/submissions/1678709853/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-27</td>
+            <td>50. Pow(x, n)</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/powx-n/submissions/1678669601/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-27</td>
+            <td>66. Plus One</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/plus-one/submissions/1678663497/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-27</td>
+            <td>202. Happy Number</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/happy-number/submissions/1678656101/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-27</td>
+            <td>54. Spiral Matrix</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/spiral-matrix/submissions/1678644678/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-27</td>
+            <td>48. Rotate Image</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/rotate-image/submissions/1678629599/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-27</td>
+            <td>127. Word Ladder</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/word-ladder/submissions/1678592313/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-27</td>
+            <td>210. Course Schedule II</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/course-schedule-ii/submissions/1678527334/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-27</td>
+            <td>207. Course Schedule</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/course-schedule/submissions/1678518865/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-27</td>
+            <td>417. Pacific Atlantic Water Flow</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/1678476227/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-06-27</td>
+            <td>994. Rotting Oranges</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/rotting-oranges/submissions/1678432682/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-06-26</td>
             <td>133. Clone Graph</td>
@@ -447,109 +519,115 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         <tbody>
           <!-- Add entries like below -->
           <tr>
+            <td>2025-06-27</td>
+            <td>Number of Comments Per User in 30 days before 2020-02-10</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
             <td>2025-06-26</td>
             <td>Premium Accounts</td>
             <td>Medium</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-25</td>
             <td>Email Preference Missing</td>
             <td>Easy</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-24</td>
             <td>Total Cost Of Orders</td>
             <td>Easy</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-23</td>
             <td>Largest Olympics</td>
             <td>Medium</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-22</td>
             <td>Unique Users Per Client Per Month</td>
             <td>Easy</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-21</td>
             <td>Most Profitable Financial Company</td>
             <td>Easy</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-20</td>
             <td>MacBookPro User Event Count</td>
             <td>Easy</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-19</td>
             <td>Share of Active Users</td>
             <td>Medium</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-18</td>
             <td>Top Cool Votes</td>
             <td>Medium</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-17</td>
             <td>Employee and Manager Salaries</td>
             <td>Medium</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-16</td>
             <td>Highest Salary In Department</td>
             <td>Medium</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-15</td>
             <td>Aroma-based Winery Search.</td>
             <td>Medium</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-14</td>
             <td>Spam Posts</td>
             <td>Medium</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-13</td>
             <td>Reviews of Categories</td>
             <td>Medium</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-12</td>
             <td>Ranking Most Active Guests</td>
             <td>Medium</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-11</td>
             <td>New Products</td>
             <td>Medium</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-10</td>
             <td>Apple Product Counts</td>
             <td>Medium</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-09</td>
             <td>Customer Revenue In March</td>
             <td>Medium</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-08</td>
             <td>Classify Business Type</td>
             <td>Medium</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-07</td>
             <td>Income By Title and Gender</td>
             <td>Medium</td>
-          <tr>
+          </tr>
           <tr>
             <td>2025-06-06</td>
             <td>Popularity of Hack</td>
             <td>Easy</td>
+          </tr>
           <tr>
             <td>2025-06-05</td>
             <td>Order Details</td>
