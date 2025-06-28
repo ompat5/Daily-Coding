@@ -4,13 +4,13 @@ Welcome, this repo is where I sharpen my data science weapons every day by slayi
 
 I'm doing this to level up my problem-solving, keep my brain caffeinated ☕, and prepare for the day someone throws a left-outer join at me in a job interview!
 
-This README updates daily with information of the problems I’ve solved. Click on the leetocde link to view my solution (you'll need a leetcode account). Unfortunately, Stratascratch does not ability to view problem submissions outside of your own account 😭, however I can upload my solutions through SQL files if requested.
+This README updates daily with information of the problems I’ve solved. Click on the leetcode link to view my solution (you'll need a leetcode account). Unfortunately, Stratascratch does not have the ability to view problem submissions outside of your own account 😭, however I can upload my solutions through SQL files if requested.
 
 This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python, and crying. Let’s get better one problem at a time 💪.
 
 ---
 
-### Streak 🔥: 39 days
+### Streak 🔥: 40 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,12 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-28</td>
+            <td>53. Maximum Subarray</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/maximum-subarray/submissions/1679757889/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-06-27</td>
             <td>56. Merge Intervals</td>
@@ -518,6 +524,11 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-28</td>
+            <td>Captain Base Pay</td>
+            <td>Easy</td>
+          </tr>
           <tr>
             <td>2025-06-27</td>
             <td>Number of Comments Per User in 30 days before 2020-02-10</td>
