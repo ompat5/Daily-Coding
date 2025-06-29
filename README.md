@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 40 days
+### Streak 🔥: 41 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,12 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-29</td>
+            <td>55. Jump Game</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/jump-game/submissions/1680600643/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-06-28</td>
             <td>53. Maximum Subarray</td>
@@ -524,6 +530,11 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-06-29</td>
+            <td>Number of Shipments Per Month</td>
+            <td>Easy</td>
+          </tr>
           <tr>
             <td>2025-06-28</td>
             <td>Captain Base Pay</td>
