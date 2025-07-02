@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 42 days
+### Streak 🔥: 44 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,18 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-02</td>
+            <td>435. Non-overlapping Intervals</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/non-overlapping-intervals/submissions/1684354328/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-01</td>
+            <td>543. Diameter of Binary Tree</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/diameter-of-binary-tree/submissions/1684348270/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-06-30</td>
             <td>136. Single Number</td>
@@ -536,6 +548,16 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-02</td>
+            <td>Processed Ticket Rate By Type</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-07-01</td>
+            <td>Most Lucrative Products</td>
+            <td>Medium</td>
+          </tr>
           <tr>
             <td>2025-06-30</td>
             <td>Abigail Breslin Nominations</td>
