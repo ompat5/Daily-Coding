@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 44 days
+### Streak 🔥: 45 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,12 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-03</td>
+            <td>45. Jump Game II</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/jump-game-ii/submissions/1685397426/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-07-02</td>
             <td>435. Non-overlapping Intervals</td>
@@ -548,6 +554,11 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-03</td>
+            <td>Election Results</td>
+            <td>Medium</td>
+          </tr>
           <tr>
             <td>2025-07-02</td>
             <td>Processed Ticket Rate By Type</td>
