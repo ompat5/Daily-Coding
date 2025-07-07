@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 48 days
+### Streak 🔥: 49 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,12 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-07</td>
+            <td>131. Palindrome Partitioning</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/palindrome-partitioning/submissions/1689787323/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-07-06</td>
             <td>84. Largest Rectangle in Histogram</td>
@@ -572,6 +578,11 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-07</td>
+            <td>Reviews of Hotel Arena</td>
+            <td>Easy</td>
+          </tr>
           <tr>
             <td>2025-07-06</td>
             <td>Most Active Users On Messenger</td>
