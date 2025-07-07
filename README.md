@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 45 days
+### Streak 🔥: 48 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,24 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-06</td>
+            <td>84. Largest Rectangle in Histogram</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1688927405/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-05</td>
+            <td>846. Hand of Straights</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/hand-of-straights/submissions/1688917386/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-04</td>
+            <td>134. Gas Station</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/gas-station/submissions/1688902958/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-07-03</td>
             <td>45. Jump Game II</td>
@@ -554,6 +572,21 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-06</td>
+            <td>Most Active Users On Messenger</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-07-05</td>
+            <td>Number of violations</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-07-04</td>
+            <td>Highest Target Under Manager</td>
+            <td>Medium</td>
+          </tr>
           <tr>
             <td>2025-07-03</td>
             <td>Election Results</td>
