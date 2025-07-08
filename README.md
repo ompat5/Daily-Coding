@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 49 days
+### Streak 🔥: 50 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,12 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-08</td>
+            <td>424. Longest Repeating Character Replacement</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/longest-repeating-character-replacement/submissions/1691016777/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-07-07</td>
             <td>131. Palindrome Partitioning</td>
@@ -578,6 +584,11 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-08</td>
+            <td>Distances Traveled</td>
+            <td>Medium</td>
+          </tr>
           <tr>
             <td>2025-07-07</td>
             <td>Reviews of Hotel Arena</td>
