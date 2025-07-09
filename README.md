@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 50 days
+### Streak 🔥: 51 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,12 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-09</td>
+            <td>287. Find the Duplicate Number</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/find-the-duplicate-number/submissions/1692223920/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-07-08</td>
             <td>424. Longest Repeating Character Replacement</td>
@@ -584,6 +590,11 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-09</td>
+            <td>Top 10 Songs 2010</td>
+            <td>Medium</td>
+          </tr>
           <tr>
             <td>2025-07-08</td>
             <td>Distances Traveled</td>
