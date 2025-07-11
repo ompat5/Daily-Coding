@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 51 days
+### Streak 🔥: 53 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,18 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-11</td>
+            <td>5. Longest Palindromic Substring</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/longest-palindromic-substring/submissions/1694720909/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-10</td>
+            <td>146. LRU Cache</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/lru-cache/submissions/1694716116/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-07-09</td>
             <td>287. Find the Duplicate Number</td>
@@ -590,6 +602,16 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-11</td>
+            <td>Expensive Projects</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-07-10</td>
+            <td>Matching Similar Hosts and Guests</td>
+            <td>Medium</td>
+          </tr>
           <tr>
             <td>2025-07-09</td>
             <td>Top 10 Songs 2010</td>
