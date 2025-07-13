@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 53 days
+### Streak 🔥: 55 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,18 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-13</td>
+            <td>152. Maximum Product Subarray</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/maximum-product-subarray/submissions/1696822679/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-12</td>
+            <td>647. Palindromic Substrings</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/palindromic-substrings/submissions/1696808059/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-07-11</td>
             <td>5. Longest Palindromic Substring</td>
@@ -602,6 +614,16 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-13</td>
+            <td>Find the percentage of shipable orders</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-07-12</td>
+            <td>Artist Appearance Count</td>
+            <td>Easy</td>
+          </tr>
           <tr>
             <td>2025-07-11</td>
             <td>Expensive Projects</td>
