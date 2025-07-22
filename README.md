@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 55 days
+### Streak 🔥: 63 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,54 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-21</td>
+            <td>2013. Detect Squares</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/detect-squares/submissions/1706636519/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-20</td>
+            <td>43. Multiply Strings</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/multiply-strings/submissions/1706625230/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-19</td>
+            <td>684. Redundant Connection</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/redundant-connection/submissions/1706619368/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-18</td>
+            <td>130. Surrounded Regions</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/surrounded-regions/submissions/1706606451/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-17</td>
+            <td>621. Task Scheduler</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/task-scheduler/submissions/1706593423/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-16</td>
+            <td>23. Merge k Sorted Lists</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/merge-k-sorted-lists/submissions/1700679855/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-15</td>
+            <td>239. Sliding Window Maximum</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/sliding-window-maximum/submissions/1700676094/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-14</td>
+            <td>4. Median of Two Sorted Arrays</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1700662838/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-07-13</td>
             <td>152. Maximum Product Subarray</td>
@@ -614,6 +662,46 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-21</td>
+            <td>Submission Types</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-07-20</td>
+            <td>Churro Activity Date</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-07-19</td>
+            <td>Flags per Video</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-07-18</td>
+            <td>Cities With The Most Expensive Homes</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-07-17</td>
+            <td>Lyft Driver Wages</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-07-16</td>
+            <td>Top Ranked Songs</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-07-15</td>
+            <td>User with Most Approved Flags</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-07-14</td>
+            <td>Extremely Late Delivery</td>
+            <td>Medium</td>
+          </tr>
           <tr>
             <td>2025-07-13</td>
             <td>Find the percentage of shipable orders</td>
