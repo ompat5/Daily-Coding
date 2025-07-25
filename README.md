@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 63 days
+### Streak 🔥: 67 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,30 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-25</td>
+            <td>416. Partition Equal Subset Sum</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/partition-equal-subset-sum/submissions/1711319384/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-24</td>
+            <td>300. Longest Increasing Subsequence</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/submissions/1709883603/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-23</td>
+            <td>139. Word Break</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/word-break/submissions/1708502358/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-22</td>
+            <td>1851. Minimum Interval to Include Each Query</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/minimum-interval-to-include-each-query/submissions/1708014549/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-07-21</td>
             <td>2013. Detect Squares</td>
@@ -662,6 +686,26 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-07-25</td>
+            <td>Proportion Of Total Spend</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-07-24</td>
+            <td>Top Businesses With Most Reviews</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-07-23</td>
+            <td>Manager of the Largest Department</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-07-22</td>
+            <td>Gender With Generous Reviews</td>
+            <td>Easy</td>
+          </tr>
           <tr>
             <td>2025-07-21</td>
             <td>Submission Types</td>
