@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 67 days
+### Streak 🔥: 75 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,60 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-08-02</td>
+            <td>309. Best Time to Buy and Sell Stock with Cooldown</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/submissions/1720592711/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-01</td>
+            <td>1143. Longest Common Subsequence</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/longest-common-subsequence/submissions/1719777120/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-01</td>
+            <td>62. Unique Paths</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/unique-paths/submissions/1719433950/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-31</td>
+            <td>678. Valid Parenthesis String</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/valid-parenthesis-string/submissions/1718586379/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-30</td>
+            <td>763. Partition Labels</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/partition-labels/submissions/1717608860/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-29</td>
+            <td>1899. Merge Triplets to Form Target Triplet</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/merge-triplets-to-form-target-triplet/submissions/1716510599/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-28</td>
+            <td>297. Serialize and Deserialize Binary Tree</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/submissions/1716501155/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-27</td>
+            <td>124. Binary Tree Maximum Path Sum</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/1716481061/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-07-26</td>
+            <td>25. Reverse Nodes in k-Group</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/1716471436/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-07-25</td>
             <td>416. Partition Equal Subset Sum</td>
@@ -686,6 +740,46 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-08-02</td>
+            <td>Second Highest Salary</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-01</td>
+            <td>Customer Orders and Details</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-07-31</td>
+            <td>Clicked Vs Non-Clicked Search Results</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-07-30</td>
+            <td>April Admin Employees</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-07-29</td>
+            <td>Hour With The Highest Order Volume</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-07-28</td>
+            <td>Workers by Department Since April</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-07-27</td>
+            <td>User Growth Rate</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-07-26</td>
+            <td>3 Bed Minimum</td>
+            <td>Easy</td>
+          </tr>
           <tr>
             <td>2025-07-25</td>
             <td>Proportion Of Total Spend</td>
