@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 75 days
+### Streak 🔥: 89 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,90 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-08-16</td>
+            <td>72. Edit Distance</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/edit-distance/submissions/1737592829/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-15</td>
+            <td>115. Distinct Subsequences</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/distinct-subsequences/submissions/1737582775/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-14</td>
+            <td>329. Longest Increasing Path in a Matrix</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/longest-increasing-path-in-a-matrix/submissions/1735534871/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-13</td>
+            <td>97. Interleaving String</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/interleaving-string/submissions/1734402237/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-12</td>
+            <td>494. Target Sum</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/target-sum/submissions/1733158614/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-11</td>
+            <td>518. Coin Change II</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/coin-change-ii/submissions/1733138796/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-10</td>
+            <td>7. Reverse Integer</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/reverse-integer/submissions/1733119388/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-09</td>
+            <td>371. Sum of Two Integers</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/sum-of-two-integers/submissions/1733117836/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-08</td>
+            <td>268. Missing Number</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/missing-number/submissions/1733113874/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-07</td>
+            <td>190. Reverse Bits</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/reverse-bits/submissions/1733111020/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-06</td>
+            <td>338. Counting Bits</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/counting-bits/submissions/1733109174/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-05</td>
+            <td>191. Number of 1 Bits</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/number-of-1-bits/submissions/1724358555/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-04</td>
+            <td>295. Find Median from Data Stream</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/find-median-from-data-stream/submissions/1723790391/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-03</td>
+            <td>355. Design Twitter</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/design-twitter/submissions/1723753814/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-08-02</td>
             <td>309. Best Time to Buy and Sell Stock with Cooldown</td>
@@ -740,6 +824,76 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-08-16</td>
+            <td>First Time Orders</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-15</td>
+            <td>City With The Highest and Lowest Income Variance</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-14</td>
+            <td>City with Most Customers</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-13</td>
+            <td>Recommendation System</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-12</td>
+            <td>The Most Expensive Products Per Category</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-11</td>
+            <td>User Email Labels</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-10</td>
+            <td>Employees' Years In Service</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-09</td>
+            <td>Titanic Survivors and Non-Survivors</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-08</td>
+            <td>Users Activity Per Month Day</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-08-07</td>
+            <td>Aggregate Listening Data</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-08-06</td>
+            <td>Class Performance</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-05</td>
+            <td>Favorite Host Nationality</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-04</td>
+            <td>Recent Refinance Submissions</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-03</td>
+            <td>Share of Loan Balance</td>
+            <td>Medium</td>
+          </tr>
           <tr>
             <td>2025-08-02</td>
             <td>Second Highest Salary</td>
