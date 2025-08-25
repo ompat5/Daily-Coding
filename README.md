@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 89 days
+### Streak 🔥: 98 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,60 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-08-25</td>
+            <td>1757. Recyclable and Low Fat Products</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/1737918922/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-24</td>
+            <td>595. Big Countries</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/big-countries/submissions/1737918149/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-23</td>
+            <td>332. Reconstruct Itinerary</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/reconstruct-itinerary/submissions/1747843905/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-22</td>
+            <td>787. Cheapest Flights Within K Stops</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/cheapest-flights-within-k-stops/submissions/1747841440/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-21</td>
+            <td>778. Swim in Rising Water</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/swim-in-rising-water/submissions/1747818693/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-20</td>
+            <td>1584. Min Cost to Connect All Points</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/min-cost-to-connect-all-points/submissions/1742140680/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-19</td>
+            <td>743. Network Delay Time</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/network-delay-time/submissions/1742035007/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-18</td>
+            <td>10. Regular Expression Matching</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/regular-expression-matching/submissions/1742024567/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-17</td>
+            <td>312. Burst Balloons</td>
+            <td>Hard</td>
+            <td><a href="https://leetcode.com/problems/burst-balloons/submissions/1739103609/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-08-16</td>
             <td>72. Edit Distance</td>
@@ -824,6 +878,51 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-08-25</td>
+            <td>Average Customers Per City</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-24</td>
+            <td>Top 2 Users With Most Calls</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-23</td>
+            <td>Daily Interactions By Users Count</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-22</td>
+            <td>Wine Variety Revenues</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-21</td>
+            <td>Three Purchases</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-20</td>
+            <td>Signups By Billing Cycle</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-19</td>
+            <td>Completed Tasks</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-18</td>
+            <td>Highest Total Miles</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-17</td>
+            <td>Find the top-ranked songs for the past 20 years</td>
+            <td>Easy</td>
+          </tr>
           <tr>
             <td>2025-08-16</td>
             <td>First Time Orders</td>
