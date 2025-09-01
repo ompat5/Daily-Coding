@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 98 days
+### Streak 🔥: 105 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,48 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-09-01</td>
+            <td>1527. Patients With a Condition</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/patients-with-a-condition/submissions/1738933829/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-31</td>
+            <td>1517. Find Users With Valid E-Mails</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/find-users-with-valid-e-mails/submissions/1738921330/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-30</td>
+            <td>1667. Fix Names in a Table</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/fix-names-in-a-table/submissions/1738872790/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-29</td>
+            <td>1873. Calculate Special Bonus</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/calculate-special-bonus/submissions/1738854027/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-28</td>
+            <td>1683. Invalid Tweets</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/invalid-tweets/submissions/1738803304/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-27</td>
+            <td>1148. Article Views I</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/article-views-i/submissions/1737937411/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-08-26</td>
+            <td>183. Customers Who Never Order</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/customers-who-never-order/submissions/1737934062/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-08-25</td>
             <td>1757. Recyclable and Low Fat Products</td>
@@ -878,6 +920,41 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-09-01</td>
+            <td>Inactive Free Users</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-08-31</td>
+            <td>Products with No Sales</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-08-30</td>
+            <td>Customer Average Orders</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-08-29</td>
+            <td>Ranking Hosts By Beds</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-08-28</td>
+            <td>Paid Users In April 2020</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-08-27</td>
+            <td>Sales with Valid Promotion</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-08-26</td>
+            <td>Rush Hour Calls</td>
+            <td>Medium</td>
+          </tr>
           <tr>
             <td>2025-08-25</td>
             <td>Average Customers Per City</td>
