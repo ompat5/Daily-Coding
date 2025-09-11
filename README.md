@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 105 days
+### Streak 🔥: 115 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,66 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-09-11</td>
+            <td>2356. Number of Unique Subjects Taught by Each Teacher</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/submissions/1742688627/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-09-10</td>
+            <td>511. Game Play Analysis I</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/game-play-analysis-i/submissions/1742660342/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-09-09</td>
+            <td>1741. Find Total Time Spent by Each Employee</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/find-total-time-spent-by-each-employee/submissions/1742605929/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-09-08</td>
+            <td>1907. Count Salary Categories</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/count-salary-categories/submissions/1742527775/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-09-07</td>
+            <td>1795. Rearrange Products Table</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/rearrange-products-table/submissions/1741595486/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-09-06</td>
+            <td>196. Delete Duplicate Emails</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/delete-duplicate-emails/submissions/1741576528/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-09-05</td>
+            <td>178. Rank Scores</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/rank-scores/submissions/1741567594/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-09-04</td>
+            <td>184. Department Highest Salary</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/department-highest-salary/submissions/1739062342/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-09-03</td>
+            <td>176. Second Highest Salary</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/second-highest-salary/submissions/1738961730/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-09-02</td>
+            <td>177. Nth Highest Salary</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/nth-highest-salary/submissions/1738955373/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-09-01</td>
             <td>1527. Patients With a Condition</td>
@@ -920,6 +980,56 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-09-11</td>
+            <td>Favorite Customer</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-09-10</td>
+            <td>Pizza Partners</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-09-09</td>
+            <td>Users with Many Searches</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-09-08</td>
+            <td>Order all countries by the year they first participated in the Olympics</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-09-07</td>
+            <td>Reviews Bins on Reviews Number</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-09-06</td>
+            <td>World Tours</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-09-05</td>
+            <td>Total Wine Revenue</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-09-04</td>
+            <td>Session Type Duration</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-09-03</td>
+            <td>Lowest Priced Orders</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-09-02</td>
+            <td>Blocked Users</td>
+            <td>Medium</td>
+          </tr>
           <tr>
             <td>2025-09-01</td>
             <td>Inactive Free Users</td>
