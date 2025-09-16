@@ -10,7 +10,7 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
 
 ---
 
-### Streak 🔥: 115 days
+### Streak 🔥: 120 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +41,36 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-09-16</td>
+            <td>1050. Actors and Directors Who Cooperated At Least Three Times</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/submissions/1744512388/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-09-15</td>
+            <td>1693. Daily Leads and Partners</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/daily-leads-and-partners/submissions/1743779750/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-09-14</td>
+            <td>1484. Group Sold Products By The Date</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/group-sold-products-by-the-date/submissions/1743765553/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-09-13</td>
+            <td>586. Customer Placing the Largest Number of Orders</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/submissions/1742714917/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-09-12</td>
+            <td>596. Classes With at Least 5 Students</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/classes-with-at-least-5-students/submissions/1742697653/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-09-11</td>
             <td>2356. Number of Unique Subjects Taught by Each Teacher</td>
@@ -980,6 +1010,31 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-09-16</td>
+            <td>Total Number Of Housing Units</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>2025-09-15</td>
+            <td>Population Density</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-09-14</td>
+            <td>Find the top 5 cities with the most 5 star businesses</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-09-13</td>
+            <td>Find whether the number of seniors works at Meta/Facebook is higher than its number of USA based employees</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-09-12</td>
+            <td>Successfully Sent Messages</td>
+            <td>Medium</td>
+          </tr>
           <tr>
             <td>2025-09-11</td>
             <td>Favorite Customer</td>
