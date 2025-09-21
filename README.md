@@ -8,9 +8,11 @@ This README updates daily with information of the problems I’ve solved. Click 
 
 This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python, and crying. Let’s get better one problem at a time 💪.
 
+Update (Sept 21, 2025): Temporarily pausing LeetCode to concentrate on StrataScratch's data science and SQL challenges.
+
 ---
 
-### Streak 🔥: 120 days
+### Streak 🔥: 125 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -41,6 +43,30 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-09-20</td>
+            <td>607. Sales Person</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/sales-person/submissions/1744834158/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-09-19</td>
+            <td>570. Managers with at Least 5 Direct Reports</td>
+            <td>Medium</td>
+            <td><a href="https://leetcode.com/problems/managers-with-at-least-5-direct-reports/submissions/1744805234/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-09-18</td>
+            <td>1280. Students and Examinations</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/students-and-examinations/submissions/1744753361/">Python</a></td>
+          </tr>
+          <tr>
+            <td>2025-09-17</td>
+            <td>1378. Replace Employee ID With The Unique Identifier</td>
+            <td>Easy</td>
+            <td><a href="https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/submissions/1744643789/">Python</a></td>
+          </tr>
           <tr>
             <td>2025-09-16</td>
             <td>1050. Actors and Directors Who Cooperated At Least Three Times</td>
@@ -1010,6 +1036,31 @@ This is a marathon, not a sprint. Or maybe more like a triathlon — SQL, Python
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-09-21</td>
+            <td>Day 1 Common Reactions</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-09-20</td>
+            <td>Top Streamers</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-09-19</td>
+            <td>Top Three Classes</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-09-18</td>
+            <td>Find the number of customers without an order</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td>2025-09-17</td>
+            <td>Top Monthly Sellers</td>
+            <td>Easy</td>
+          </tr>
           <tr>
             <td>2025-09-16</td>
             <td>Total Number Of Housing Units</td>
