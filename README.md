@@ -25,7 +25,7 @@ Update (Sept 21, 2025): Temporarily pausing LeetCode to concentrate on StrataScr
 
 ---
 
-## 📅 Daily Progress
+## 📅 Daily Progress (Leetcode on the left, Stratscratch on the right)
 
 <!-- START PROGRESS TABLE -->
 <table>
