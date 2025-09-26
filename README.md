@@ -12,7 +12,7 @@ Update (Sept 21, 2025): Temporarily pausing LeetCode to concentrate on StrataScr
 
 ---
 
-### Streak 🔥: 125 days
+### Streak 🔥: 130 days
 
 ![](https://leetcode-badge-sage.vercel.app/badge/ompatel5?theme=dark&bgColor=282828)
 
@@ -1036,6 +1036,31 @@ Update (Sept 21, 2025): Temporarily pausing LeetCode to concentrate on StrataScr
         </thead>
         <tbody>
           <!-- Add entries like below -->
+          <tr>
+            <td>2025-09-26</td>
+            <td>Rank Variance Per Country</td>
+            <td>Hard</td>
+          </tr>
+          <tr>
+            <td>2025-09-25</td>
+            <td>Top 5 States With 5 Star Businesses</td>
+            <td>Hard</td>
+          </tr>
+          <tr>
+            <td>2025-09-24</td>
+            <td>Marketing Campaign Success [Advanced]</td>
+            <td>Hard</td>
+          </tr>
+          <tr>
+            <td>2025-09-23</td>
+            <td>Popularity Percentage</td>
+            <td>Hard</td>
+          </tr>
+          <tr>
+            <td>2025-09-22</td>
+            <td>Monthly Percentage Difference</td>
+            <td>Hard</td>
+          </tr>
           <tr>
             <td>2025-09-21</td>
             <td>Day 1 Common Reactions</td>
